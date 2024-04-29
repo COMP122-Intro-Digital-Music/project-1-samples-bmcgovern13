@@ -1,20 +1,20 @@
-[ 
+[
   {
-    "name": “simple_synth”,
-    "file": "samples/simple_synth.mp3",
-    "bpm": “120”,
-    "loop": “8m"
-  },
-  {
-    "name": “groovy_piano”,
-    "file": "samples/groovy_piano.mp3",
-    "bpm": "120",
-    "loop": “8m"
-  },
-  {
-    "name": “cool_low_synth”,
-    "file": "samples/cool_low_synth.mp3",
-    "bpm": “120”,
-    "loop": “8m"
-  }
+    "name": "groovy_piano",
+    "file": "samples/project_one_comp_122groovy_piano.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  },
+  {
+    "name": "cool_low_synth",
+    "file": "samples/project_one_comp_122cool_low_synth.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  },
+  {
+    "name": "simple_synth",
+    "file": "samples/project_one_comp_122simple_synth.mp3",
+    "bpm": "120",
+    "loop": "8m"
+  }
 ]
